@@ -64,3 +64,31 @@ nav a:hover {
         margin-bottom: 30px;
         color: rgb(255, 255, 255);
 }
+
+.portfolio {
+    padding: 100px 0;
+    text-align: center;
+}
+
+.portfolio h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.portfolio-item {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.portfolio-item:hover {
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio-item img {
+    max-width: 100%;
+}
