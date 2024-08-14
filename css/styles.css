@@ -92,3 +92,67 @@ nav a:hover {
 .portfolio-item img {
     max-width: 100%;
 }
+
+.about {
+    background-color: #eee;
+    padding: 100px 0;
+    text-align: center;
+    box-shadow: 2px 2px 8px #eee;
+}
+
+.about h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contact {
+    background-color: #4a4835;
+    color: white;
+    padding: .2rem;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 2rem;
+    margin-bottom: .2rem;
+}
+
+.contact p {
+    font-size: 1rem;
+    margin-bottom: .2rem;
+}
+
+
+
+footer {
+    background-color: #4a4835;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer li {
+    display: inline;
+    margin: 0 20px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer p {
+    font-size: .7rem;
+}
