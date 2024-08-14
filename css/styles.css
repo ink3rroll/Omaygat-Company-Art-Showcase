@@ -47,17 +47,16 @@ nav a:hover {
 .hero {
         background-image: url('img/avat.jpg');
         background-size: cover;
-        background-position: 100px -100px;
-        
+        background-position: 100px -100px;        
         text-align: center;
         padding: 120px 0;
-    }
+}
     
 .hero h1 {
         font-size: 36px;
         margin-bottom: 10px;
         color: rgb(255, 255, 255);
-    }
+}
     
 .hero p {
         font-size: .9rem;
